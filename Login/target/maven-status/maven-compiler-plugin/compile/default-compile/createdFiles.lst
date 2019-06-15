@@ -1,0 +1,9 @@
+org/jooq/Tables.class
+org/jooq/tables/Usuario.class
+org/jooq/DefaultCatalog.class
+org/jooq/Indexes.class
+org/jooq/Indexes$Indexes0.class
+org/jooq/Ng.class
+org/jooq/tables/records/UsuarioRecord.class
+org/jooq/Keys.class
+org/jooq/Keys$UniqueKeys0.class
