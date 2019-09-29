@@ -3,7 +3,8 @@ package com.main.kotlin.variant
 /**
  * Variance annotation (@annotation out)
  *
- * Allows objects the same type or more generics
+ * Allows objects the same type or more generics.
+ * When keyword "out" is used, the "T" object just can be "produced", never "consumed"
  */
 interface Source<out T>
 
